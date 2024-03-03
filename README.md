@@ -10,7 +10,7 @@ I am a web application developer. I'm still learning in software development fie
 * ✉️  You can contact me at [kyawzinw469@gmail.com](mailto:kyawzinw469@gmail.com)
 * 🧠  I'm learning Vue js and its related libraries
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I can help you for creating your projects and loves for ladies
+* ⚡  I can help you for creating your projects.
 
 ### Skills
 
