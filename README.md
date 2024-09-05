@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyaw Zin Win
+Hi My name is Kyaw Zin Win
 ====================================================================================================================================
 
 Web Application Developer
@@ -8,7 +8,6 @@ I am a web application developer. I'm still learning in software development fie
 
 * 🌍  I'm based in Myanmar
 * ✉️  You can contact me at [kyawzinw469@gmail.com](mailto:kyawzinw469@gmail.com)
-* 🧠  I'm learning Vue js and its related libraries
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I can help you for creating your projects.
 
